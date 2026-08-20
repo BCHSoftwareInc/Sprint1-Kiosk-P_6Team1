@@ -1,6 +1,10 @@
 # BCH Software Inc. - Enterprise Engineering Repository
 
+<<<<<<< HEAD
 # Revised 8/20
+=======
+#Revised 8-20
+>>>>>>> origin/main
 
 Welcome to your team's official codebase for the current development cycle.
 
