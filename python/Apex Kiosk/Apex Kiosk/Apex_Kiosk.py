@@ -1,3 +1,6 @@
+print("|-----------------------------------|")
+print("|     WELCOME TO VISITOR KIOSK      |")
+print("|-----------------------------------|")
 print("What is your name?")
 name= input()
 print("What is your organization?")
