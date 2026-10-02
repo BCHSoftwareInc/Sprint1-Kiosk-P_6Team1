@@ -37,7 +37,7 @@ def check_entry(ticket_type, height_in, age, has_guardian):
 
     # TODO Rule 5: if ticket_type is "VIP" -> return "GRANTED_VIP", otherwise return "GRANTED"
 
-    return "GRANTED"
+    return "TODO"
 
 
 def is_granted(result_code):
